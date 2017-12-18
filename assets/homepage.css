@@ -1,8 +1,8 @@
 .homebox{margin: 0;padding: 0;width:100%;margin-top: 0px;}
 .titlebox{margin:0;padding:0;height:80px;position:relative;}
-.name{width:40%;position:relative;float:left;}
-.icon{width:55%;position:relative;float:left;padding:20px;}
-.name p{margin-left:20px;padding:15px;margin-top: 0px;color: rgba(255, 255, 255, 0.911);font-family: STLiti;font-size: 3em;font-weight: bold;}
+.name{width:45%;position:relative;float:left;}
+.icon{width:50%;position:relative;float:left;padding:20px;}
+.name p{padding:15px;margin-top: 0px;color: rgba(255, 255, 255, 0.911);text-align:center;font-family: STLiti;font-size: 3em;font-weight: bold;}
 .button{display:block;
   width:120px;
   height:40px;
@@ -29,7 +29,6 @@
 .icon-blog1{padding-left: 20%;}
 .icon-blog2{padding-left: 40%;}
 .icon-blog3{padding-left: 60%;}
-.icon-blog4{padding-left: 80%;}
 .button .line{position:absolute;
                background:none; 
               -moz-transition:ease 0.4s;
